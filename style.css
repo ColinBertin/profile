@@ -29,11 +29,12 @@ h2 {
 a {
   text-decoration: none;
   color: rgba(60, 60, 60, 0.8);
+  transition: 0.5s;
 }
 
 a:hover {
   color: #F9CD6D;
-  transition: 0.5s;
+  /* transition: 0.5s; */
 }
 
 .container {
